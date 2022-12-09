@@ -10,4 +10,4 @@ spec:
   containers:
     - name: myjenkins
       image: jenkins/jenkins
-
+...      
